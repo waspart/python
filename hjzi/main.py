@@ -2,8 +2,6 @@ from downloader import Downloader
 from paser import Parser
 
 
-    
-
 if __name__ == '__main__':
     dloader = Downloader()
     url = "http://zd.hwxnet.com/pinyin/a.html"
